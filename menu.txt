@@ -2,6 +2,7 @@ Develhope restaurant
 Menu carne
 -Mykola's pasta with cingiale 
 -Carbonara
+-Bistecca alla Fiorentina
 Bevande
 -Acqua
 -Cocacola
