@@ -1,6 +1,9 @@
 Develhope restaurant
 Menu carne
-Amatriciana
+-Amatriciana
+-Mykola's pasta with cingiale 
+-Carbonara
+-Bistecca alla Fiorentina
 Bevande
 -Acqua
 -Cocacola
