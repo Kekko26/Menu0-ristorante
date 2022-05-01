@@ -1,0 +1,65 @@
+/*Here I declare the variables*/
+:root {
+  --yellow: #ffc832;
+  --white: #f2f3f7c7;
+}
+/*Here I reset padding and margin of the document*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* This is a container for all menu content*/
+.container {
+  width: 80%;
+  margin: 2rem auto;
+  background-color: rgba(47, 47, 52, 0.854);
+  border-radius: 0.5rem;
+}
+
+h1 {
+  color: var(--yellow);
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 0.3rem;
+}
+
+h3 {
+  color: var(--white);
+  border-top: 2px solid var(--white);
+  text-align: center;
+  font-size: 2rem;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+  max-width: fit-content;
+  margin: 0 auto;
+}
+
+.cards-container {
+  padding-top: 0.5rem;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.card {
+  width: 50%;
+  padding: 0.8rem 0.5rem;
+}
+.card h4 {
+  text-align: center;
+  color: var(--yellow);
+  font-size: 1.2rem;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  padding: 0.2rem 2rem;
+  list-style-type: none;
+  color: var(--white);
+  border-bottom: 2px dotted var(--white);
+}
